@@ -1,6 +1,6 @@
 # A Parallel Attention Network for Cattle Face Recognition
 
-This repository is the official PyTorch implementation of the paper *PANet*.
+This repository is the official PyTorch implementation of the paper *PANet* accepted by ICME 2024.
 
 ![backbone](image/backbone.png)
 
